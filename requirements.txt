@@ -16,3 +16,4 @@ langchain-text-splitters
 sentence_transformers
 langchain-huggingface
 chromadb
+faiss-cpu
